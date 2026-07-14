@@ -1,0 +1,192 @@
+{
+  "docs/ASSET_FIXES.md": {
+    "mtime": 1783479393.6482053,
+    "ast_hash": "9186d003361a9d351cbf2e51ab14839b",
+    "semantic_hash": "9186d003361a9d351cbf2e51ab14839b"
+  },
+  "docs/ASSET_PROMPTS.md": {
+    "mtime": 1783479338.9881732,
+    "ast_hash": "1a520a81c1117f7b196b95a4a6ca6aee",
+    "semantic_hash": "1a520a81c1117f7b196b95a4a6ca6aee"
+  },
+  "docs/ASSET_PROMPTS_HD.md": {
+    "mtime": 1783479338.999803,
+    "ast_hash": "4dbec2641a6fbf71339d36d5927fb9ff",
+    "semantic_hash": "4dbec2641a6fbf71339d36d5927fb9ff"
+  },
+  "docs/AUDIO_SOURCES.md": {
+    "mtime": 1783479339.0051563,
+    "ast_hash": "721ed906cc5ad411b1530981b1deaacd",
+    "semantic_hash": "721ed906cc5ad411b1530981b1deaacd"
+  },
+  "docs/DEV_LOG.md": {
+    "mtime": 1783479338.994012,
+    "ast_hash": "d5fd8e4c6cb63d148e3244f7fe67dbf4",
+    "semantic_hash": "d5fd8e4c6cb63d148e3244f7fe67dbf4"
+  },
+  "src/data/assetManifest.ts": {
+    "mtime": 1783662980.7495992,
+    "ast_hash": "89ac3d4c4eb4f1cfadf4b9da852f2e2d",
+    "semantic_hash": "89ac3d4c4eb4f1cfadf4b9da852f2e2d"
+  },
+  "src/data/btsContent.ts": {
+    "mtime": 1783479237.9104478,
+    "ast_hash": "f2a198eb99cbd95b46aac385348bba64",
+    "semantic_hash": "f2a198eb99cbd95b46aac385348bba64"
+  },
+  "src/data/letter.ts": {
+    "mtime": 1783479215.3257968,
+    "ast_hash": "979d40dc5234105495327d9b0ae94324",
+    "semantic_hash": "979d40dc5234105495327d9b0ae94324"
+  },
+  "src/data/memories.ts": {
+    "mtime": 1783576216.7084923,
+    "ast_hash": "a61acee117cdb5110b8471059ba63918",
+    "semantic_hash": "a61acee117cdb5110b8471059ba63918"
+  },
+  "src/data/memoryThemes.ts": {
+    "mtime": 1783570201.4032257,
+    "ast_hash": "64078712edd4d5342df74ce69ddd4b4e",
+    "semantic_hash": "64078712edd4d5342df74ce69ddd4b4e"
+  },
+  "src/data/miniGames.ts": {
+    "mtime": 1783666087.6924813,
+    "ast_hash": "9b85b047f5b4d32f1cb95df83e27f09a",
+    "semantic_hash": "9b85b047f5b4d32f1cb95df83e27f09a"
+  },
+  "src/entities/NPC.ts": {
+    "mtime": 1783482328.5648048,
+    "ast_hash": "4f9094d9210b192772914352645cc470",
+    "semantic_hash": "4f9094d9210b192772914352645cc470"
+  },
+  "src/entities/Player.ts": {
+    "mtime": 1783519969.9041102,
+    "ast_hash": "3de72b0a87ab7a9aafd72165f794c104",
+    "semantic_hash": "3de72b0a87ab7a9aafd72165f794c104"
+  },
+  "src/main.ts": {
+    "mtime": 1783565196.9751496,
+    "ast_hash": "a4aba5fe1a4089bfa3a8d2b67d6e5529",
+    "semantic_hash": "a4aba5fe1a4089bfa3a8d2b67d6e5529"
+  },
+  "src/scenes/BTSScene.ts": {
+    "mtime": 1783616110.939557,
+    "ast_hash": "a884a4b9be78ed7cf41395866fb32fbb",
+    "semantic_hash": "a884a4b9be78ed7cf41395866fb32fbb"
+  },
+  "src/scenes/BootScene.ts": {
+    "mtime": 1783432919.295746,
+    "ast_hash": "5dba078effa71bbbc962df459f05ab38",
+    "semantic_hash": "5dba078effa71bbbc962df459f05ab38"
+  },
+  "src/scenes/HubScene.ts": {
+    "mtime": 1783667461.3347325,
+    "ast_hash": "9b1896ad2d10e763b76f66079ff883d8",
+    "semantic_hash": "9b1896ad2d10e763b76f66079ff883d8"
+  },
+  "src/scenes/JournalScene.ts": {
+    "mtime": 1783617361.0067282,
+    "ast_hash": "c60cfd873bb1d0ed4c8d3e8c4aa4fe36",
+    "semantic_hash": "c60cfd873bb1d0ed4c8d3e8c4aa4fe36"
+  },
+  "src/scenes/LetterScene.ts": {
+    "mtime": 1783664012.791137,
+    "ast_hash": "4865484e6406adb6f4a369c0eae43d54",
+    "semantic_hash": "4865484e6406adb6f4a369c0eae43d54"
+  },
+  "src/scenes/MainMenuScene.ts": {
+    "mtime": 1783667479.8120265,
+    "ast_hash": "2364fdff7acc8fea76f854fc0b1df28e",
+    "semantic_hash": "2364fdff7acc8fea76f854fc0b1df28e"
+  },
+  "src/scenes/MemoryScene.ts": {
+    "mtime": 1783667504.9218662,
+    "ast_hash": "12a9cf532a6cbb69e841c3f4135bf767",
+    "semantic_hash": "12a9cf532a6cbb69e841c3f4135bf767"
+  },
+  "src/scenes/MiniGameScene.ts": {
+    "mtime": 1783667660.302415,
+    "ast_hash": "16ccbe459b1c0bdbb06fed86a53a1ccb",
+    "semantic_hash": "16ccbe459b1c0bdbb06fed86a53a1ccb"
+  },
+  "src/scenes/PreloadScene.ts": {
+    "mtime": 1783665303.2502856,
+    "ast_hash": "e015056e3c604a9f4576b3215eb9c30a",
+    "semantic_hash": "e015056e3c604a9f4576b3215eb9c30a"
+  },
+  "src/systems/AssetViewer.ts": {
+    "mtime": 1783524525.4806468,
+    "ast_hash": "759e738cb8a8d23dfc3e2830932a0b19",
+    "semantic_hash": "759e738cb8a8d23dfc3e2830932a0b19"
+  },
+  "src/systems/AudioHud.ts": {
+    "mtime": 1783667399.5061107,
+    "ast_hash": "f81c651e8f7fe25748101ef02151807e",
+    "semantic_hash": "f81c651e8f7fe25748101ef02151807e"
+  },
+  "src/systems/AudioManager.ts": {
+    "mtime": 1783524489.7109594,
+    "ast_hash": "6488aa4858b6d8e1a86b2e5cd8e74a9f",
+    "semantic_hash": "6488aa4858b6d8e1a86b2e5cd8e74a9f"
+  },
+  "src/systems/DialogueBox.ts": {
+    "mtime": 1783584634.9854715,
+    "ast_hash": "bc9737916586b9d0c5c1b15617a1f61b",
+    "semantic_hash": "bc9737916586b9d0c5c1b15617a1f61b"
+  },
+  "src/systems/EnvironmentalSignage.ts": {
+    "mtime": 1783667438.4302878,
+    "ast_hash": "ba45246f8d67d8389796c7e938de8f5f",
+    "semantic_hash": "ba45246f8d67d8389796c7e938de8f5f"
+  },
+  "src/systems/ImageFit.ts": {
+    "mtime": 1783519042.5685098,
+    "ast_hash": "af654c79b893dcd0633a4ffaaed13af3",
+    "semantic_hash": "af654c79b893dcd0633a4ffaaed13af3"
+  },
+  "src/systems/InteractionMarker.ts": {
+    "mtime": 1783667548.8467097,
+    "ast_hash": "77f6899db9568d6590497330a94de61b",
+    "semantic_hash": "77f6899db9568d6590497330a94de61b"
+  },
+  "src/systems/InteractionPrompt.ts": {
+    "mtime": 1783667526.8966284,
+    "ast_hash": "13b1362f10e4d75e87170225de94ad3f",
+    "semantic_hash": "13b1362f10e4d75e87170225de94ad3f"
+  },
+  "src/systems/MobileControls.ts": {
+    "mtime": 1783520083.5631392,
+    "ast_hash": "2d1d2ff8f4faef435be5813ac3526703",
+    "semantic_hash": "2d1d2ff8f4faef435be5813ac3526703"
+  },
+  "src/systems/PlaceholderArt.ts": {
+    "mtime": 1783432910.4829836,
+    "ast_hash": "5ae049fb740af60ac214dc6efc3e2dcc",
+    "semantic_hash": "5ae049fb740af60ac214dc6efc3e2dcc"
+  },
+  "src/systems/PuzzleArt.ts": {
+    "mtime": 1783564828.1988266,
+    "ast_hash": "5c0591e7ba5e5827b59ee60cf1bc92d0",
+    "semantic_hash": "5c0591e7ba5e5827b59ee60cf1bc92d0"
+  },
+  "src/systems/SaveState.ts": {
+    "mtime": 1783564698.5189464,
+    "ast_hash": "0148edf94ea1efb789b6771f6945ca84",
+    "semantic_hash": "0148edf94ea1efb789b6771f6945ca84"
+  },
+  "src/systems/SceneFade.ts": {
+    "mtime": 1783519184.0037723,
+    "ast_hash": "811e4bbcf6665b6e2b7981449080d383",
+    "semantic_hash": "811e4bbcf6665b6e2b7981449080d383"
+  },
+  "src/systems/VisualTheme.ts": {
+    "mtime": 1783570249.6851668,
+    "ast_hash": "0dfd8771caa91c527ed3a1ae8ee14dbe",
+    "semantic_hash": "0dfd8771caa91c527ed3a1ae8ee14dbe"
+  },
+  "src/vite-env.d.ts": {
+    "mtime": 1783433774.808965,
+    "ast_hash": "0352474ba2918efe13895edbc3780d94",
+    "semantic_hash": "0352474ba2918efe13895edbc3780d94"
+  }
+}

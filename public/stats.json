@@ -1,0 +1,25 @@
+{
+  "totalHours": 71.39,
+  "totalPrompts": 209,
+  "byTool": {
+    "claude-code": {
+      "hours": 46.33,
+      "prompts": 88
+    },
+    "codex": {
+      "hours": 15.72,
+      "prompts": 85
+    },
+    "antigravity": {
+      "hours": 8.58,
+      "prompts": 31
+    },
+    "github-copilot": {
+      "hours": 0.76,
+      "prompts": 5
+    }
+  },
+  "codeFiles": 35,
+  "codeLines": 11062,
+  "lastUpdated": "2026-07-15T15:45:32.004Z"
+}

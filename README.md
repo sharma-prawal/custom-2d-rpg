@@ -2,6 +2,8 @@
 
 > A narrative 2D RPG built with Phaser 3 and TypeScript — explore small hand-crafted scenes that unlock chapters of a shared story.
 
+**Live:** [north-atlas-3e6f.vercel.app](https://north-atlas-3e6f.vercel.app)
+
 <p align="center">
   <img src="docs/screenshots/desktop.jpg" width="38%" alt="Screenshot" />
   <img src="docs/screenshots/inside.jpg" width="38%" alt="Screenshot" />
